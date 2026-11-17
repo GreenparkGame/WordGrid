@@ -1,0 +1,13 @@
+{
+  "name": "wordgrid-classroom-multiplayer",
+  "version": "1.3.0",
+  "private": true,
+  "description": "WordGrid classroom word game with live multiplayer rooms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
